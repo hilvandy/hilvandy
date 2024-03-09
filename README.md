@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/hilvandy/count.svg)
-
-<div align="center"> <img src="https://metrics.lecoq.io/lvandy?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilvandy&layout=compact)](https://github.com/lvandy/github-readme-stats)
