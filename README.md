@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count]My(https://profile-counter.glitch.me/hilvandy/count.svg)visitor
+![Visitor Count](https://profile-counter.glitch.me/hilvandy/count.svg)[visito]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilvandy&layout=compact)
 ![lvandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilvandy&show_icons=true&theme=tokyonight)
