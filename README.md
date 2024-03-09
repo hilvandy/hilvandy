@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/hilvandy/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/hilvandy/github-readme-stats)
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
