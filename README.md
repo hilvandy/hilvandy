@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/hilvandy/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilvandy&layout=compact)](https://github.com/lvandy/github-readme-stats)
+
+![lvandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilvandy&show_icons=true&theme=tokyonight)
