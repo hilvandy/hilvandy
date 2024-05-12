@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on github
 - 🌱 I’m currently learning python mysql
 - 📫 How to reach me: 17777536065
-- 😄 Pronouns: java python js html 
+- 😄 Pronouns: java python js html CSS
 
 ![Visitor Count](https://profile-counter.glitch.me/hilvandy/count.svg)
 
