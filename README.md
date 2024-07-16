@@ -3,8 +3,11 @@
 </p>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1600F7&center=true&vCenter=true&random=true&width=435&lines=Welcome+To+My+Github" alt="Typing SVG" /></a>
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hilvandy&theme=blueberry-duo&hide_border=%E5%81%87" alt="GitHub Streak" /></a>
-
-### Hi there 👋
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={hilvandy}&theme=github-compact&hide_border=true&area=true" />
+  
+  
+  
+  ### Hi there 👋
 - 🔭 I’m currently working on github
 - 🌱 I’m currently learning python mysql
 - 📫 How to reach me: 17777536065
