@@ -5,7 +5,8 @@
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hilvandy&theme=blueberry-duo&hide_border=%E5%81%87" alt="GitHub Streak" /></a>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={hilvandy}&theme=github-compact&hide_border=true&area=true" />
-  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={hilvandy}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
   
   
   ### Hi there 👋
